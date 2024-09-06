@@ -9,6 +9,10 @@
   justify-content: center;
 }
 
+h1 {
+  color: white;
+  margin-bottom: 20px;
+}
 
 .App-logo {
   height: 40vmin;
